@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I’m Ahmed Khalil! 👋
 
-<!--
-**AKA-web-dev/AKA-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Junior Data Analyst from Morocco, passionate about turning raw data into clear business insights.
 
-Here are some ideas to get you started:
+💡 **Skills**
+- Python
+- SQL
+- Excel
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗂️ **Portfolio Projects**
+- Sales Data Analysis (Excel / Power BI)
+- Customer Segmentation with Python
+- SQL Query Practice
+- Automated Reports in Excel
+
+🚀 More projects coming soon!
