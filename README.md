@@ -11,7 +11,7 @@ I’m a Junior Data Analyst, Data Engineer & aspiring Data Scientist from Morocc
 - **Machine Learning & AI** – basic models, predictive analytics  
 - **Industry 4.0 / IoT** – Mosquitto (MQTT), Shifter.io, Odoo  
 
-🗂️ **Portfolio Projects**  
+🗂️ **Portfolio Projects**  (updates coming soon)
 
 - **Sales Data Analysis** (Excel / Power BI)  
 - **Customer Segmentation** (Python)  
